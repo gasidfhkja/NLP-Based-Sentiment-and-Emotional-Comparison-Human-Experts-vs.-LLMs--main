@@ -15,7 +15,7 @@ df.head(10)
 
 df.columns
 
-"""### **Initial Data Exploration and Cleaning**
+"""### **Initial Data Exploration ffand Cleaning**
 
 **Check for missing values**
 """
